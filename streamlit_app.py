@@ -11,8 +11,8 @@ st.write(
 )
 
 st.write(
-    """Omega 3 & Blueberry Oatmeal
-    Kale, Spinach & Rocket Smoothie
+    """Omega 3 & Blueberry Oatmeal\n
+    Kale, Spinach & Rocket Smoothie\n
     Hard_Boiled Free_Range Egg
     """)
     
