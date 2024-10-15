@@ -11,9 +11,7 @@ st.write(
 )
 
 st.write(
-    """Omega 3 & Blueberry Oatmeal  \n
-    Kale, Spinach & Rocket Smoothie  \n
-    Hard_Boiled Free_Range Egg
+    """Omega 3 & Blueberry Oatmeal - Kale, Spinach & Rocket Smoothie - Hard_Boiled Free_Range Egg
     """)
     
 name_on_order = st.text_input('Name on Smothie: ')
